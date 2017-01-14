@@ -1,3 +1,3 @@
 # Repos0
 Research Web Development
-Doing a Research on Flask web development
+Research and development on Flask web development 
